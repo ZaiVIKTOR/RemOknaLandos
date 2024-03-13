@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkoknaproremont_landing"]=self["webpackChunkoknaproremont_landing"]||[]).push([[594],{603:function(n,a,r){r.r(a),r.d(a,{default:function(){return k}});var t=r(6768);const u={class:"about"},e=(0,t.Lk)("h1",null,"This is an about page",-1),o=[e];function s(n,a){return(0,t.uX)(),(0,t.CE)("div",u,o)}var c=r(1241);const i={},l=(0,c.A)(i,[["render",s]]);var k=l}}]);
+//# sourceMappingURL=about.5c2ad057.js.map
